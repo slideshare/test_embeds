@@ -1,0 +1,16 @@
+body {
+  margin-top: 50px;
+  background: #238d9a;
+}
+
+#metro {
+  background: #004050;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.tile {
+  background: white;
+  margin: 0px 10px 10px 0px;
+  display: inline-block;
+}
