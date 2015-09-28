@@ -3,6 +3,10 @@ body {
   background: #238d9a;
 }
 
+.row {
+    max-width: none !important;
+}
+
 #metro {
   background: #004050;
   margin: 0 auto;
