@@ -16,6 +16,10 @@ iframe {
   width: 100%;
 }
 
+li {
+  padding: 10px 20px !important;
+}
+
 .row {
   max-width: none !important;
 }
@@ -23,7 +27,7 @@ iframe {
 #metro {
   background: #004050;
   margin: 0 auto;
-  padding: 10px;
+  padding: 50px;
 }
 
 .tile {
